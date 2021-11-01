@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @anix127
-- 👀 I’m interested in app dev and unity (game dev) also like web dev sometime
-- 🌱 I’m currently learning asp.net,js,jquery,db,c#,maybe python later
+- 👋 Hi, I’m @anix127 the noob programmer xd
+- 👀 I’m interested in app dev and unity (game dev) 
+- 🌱 I’m currently learning asp.net,js,jquery,db,c#,
 - 💞️ I’m looking to collaborate on unity
 - 📫 How to reach me (still working on my own website (mywebsite.on construction())
 
